@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to ProjectClub
+### Created by: Alberto Scicali and Brian Mansfield
 
 You can use the [editor on GitHub](https://github.com/EQ-Lazer/ProjectClub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
