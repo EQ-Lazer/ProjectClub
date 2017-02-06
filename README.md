@@ -1,8 +1,10 @@
 ## Welcome to ProjectClub
+
 ### Created by: Alberto Scicali and Brian Mansfield
 ### Class: CSCI-711 Global Illumination
 
 ## Proposal
+
 ### Summary
 - Construct a 3D Scene/Environment
 - 10-100 objects in the scene generated via music frequencies
