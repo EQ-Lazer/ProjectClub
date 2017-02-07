@@ -1,6 +1,7 @@
 ## Welcome to ProjectClub
 
 ### Created by: Alberto Scicali and Brian Mansfield
+
 ### Class: CSCI-711 Global Illumination
 
 ## Proposal
