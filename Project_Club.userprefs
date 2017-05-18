@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RayTracerObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RayTracer.cs" Line="115" Column="7" />
+      <File FileName="Assets/Scripts/discoSwag.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EqScript.cs" Line="12" Column="29" />
+      <File FileName="Assets/RayTracerOpti1.cs" Line="72" Column="8" />
+      <File FileName="Assets/RayTracerOpti3.cs" Line="191" Column="36" />
+      <File FileName="Assets/RayTracerOpti2.cs" Line="2" Column="1" />
+      <File FileName="Assets/Scripts/RayTracerObject.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
